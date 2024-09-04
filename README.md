@@ -18,7 +18,7 @@ Property listings (location, price, room type, etc.)
 
 2.Booking and review history
 
-3.Customer feedback and ratings
+3.Extra people and accommodation
 
 **Key Visualizations**
 
